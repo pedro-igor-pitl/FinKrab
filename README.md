@@ -15,9 +15,10 @@
 
 ## Tecnologias
 
-- **Back-end:** Spring Boot, JPA, MySQL
-- **Front-end:** React, Axios, Tailwind CSS (opcional)
+- **Back-end:** Spring Boot, JPA, PostGreSQL
+- **Front-end:** React, Axios, CSS
 - **Versionamento:** Git / GitHub
+- **Conteinerização:** Docker
 
 ---
 
@@ -34,7 +35,7 @@
 
 ### Back-end
 
-1. Configure um banco de dados MySQL.
+1. Configure um banco de dados PostGreSQL.
 2. Atualize o `application.properties` com credenciais do banco.
 3. Execute `mvn spring-boot:run`.
 
@@ -54,4 +55,6 @@ Este projeto está sob a **MIT License**. Veja o arquivo [LICENSE](LICENSE) para
 
 ## Contato
 
-Desenvolvido por **Pedro** – projeto pessoal de aprendizado e prática fullstack.
+Desenvolvido por **Pedro Igor** – projeto pessoal de aprendizado e prática fullstack.
+
+Linkedin: **https://www.linkedin.com/in/pedro-igor-torres-luz/**
